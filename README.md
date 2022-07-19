@@ -1,4 +1,4 @@
-# paper2031_ECCV2022_code
+# EMT-Pytorch-ECCV2022
 ## Dependencies
 * Python >= 3.6
 * Torch >= 1.0.0
